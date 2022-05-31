@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				295,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				45,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				164,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				89,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sab",
+			"indices": [],
+			"name": "sabotage"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				79
+			],
+			"anim": "kill",
+			"fps": 24,
+			"name": "kill",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cyan_Assets",
+	"position": [
+		10,
+		420
+	],
+	"healthicon": "Cyan",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		140,
+		255
+	],
+	"camera_position": [
+		-90,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
